@@ -14,7 +14,7 @@ I am a passionate software engineer based in Kenya, driven by a curiosity for te
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,tensorflow, java, go, fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,tensorflow, java, go, fastapi)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
