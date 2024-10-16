@@ -7,7 +7,7 @@ I am a passionate software engineer based in Kenya, driven by a curiosity for te
 
 ## 🚀 About Me
 
-- 🔭 I'm currently self learnig machine learning model development.
+- 🔭 I'm currently self learning machine learning model development.
 - 🌐 An astute software engineer with the ability of bringing your ideas to life.
 
 
