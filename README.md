@@ -4,7 +4,6 @@ I am a passionate software engineer based in Kenya, driven by a curiosity for te
 
 ![kanyutu707's Stats](https://github-readme-stats.vercel.app/api?username=kanyutu707&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🚀 About Me
 
 ## 🚀 About Me
 
