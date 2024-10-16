@@ -27,7 +27,7 @@ I am a passionate software engineer based in Kenya, driven by a curiosity for te
 ## 📬 Get in Touch
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/alfredkanyutu)
-- Connect with me on [Email](kanyutualfred707@gmail.com)
+- Connect with me on [Twitter](#)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
