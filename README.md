@@ -15,7 +15,7 @@ I am a passionate software engineer based in Kenya, driven by a curiosity for te
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,tensorflow,java,go,fastapi,spring)](https://skillicons.dev)
 
-![kanyutu707's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanyutu707&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![kanyutu707's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanyutu707&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=445)
 
 ## 🌱 Currently Exploring
 
