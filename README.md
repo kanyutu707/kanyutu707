@@ -19,7 +19,7 @@ I am a passionate software engineer based in Kenya, driven by a curiosity for te
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
+- 🚀 Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with vanilla CSS to create modern and responsive user interfaces.
