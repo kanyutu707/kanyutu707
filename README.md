@@ -1,16 +1,12 @@
-# Hi, I'm <Alfred>! 👋
+# Hi, I'm Alfred! 👋
 
 I am a passionate software engineer based in Kenya, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new concepts, and solving real world problems with this concepts.
 
 ## 🚀 About Me
 
-- 🔭 I'm currently self learnig machine learning.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🔭 I'm currently self learnig machine learning model development.
+- 🌐 An astute software engineer with the ability of bringing your ideas to life.
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 
 
 ## Tech Stack
@@ -21,19 +17,17 @@ I am a passionate software engineer based in Kenya, driven by a curiosity for te
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+  - Styling with vanilla CSS to create modern and responsive user interfaces.
+  - Building server-side applications with springboot, a powerful java web framework.
+  - Diving into MySql for efficient and scalable database management.
+- 🚀 Development of Machine Learning Models
 
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/alfredkanyutu)
+- Connect with me on [Email](kanyutualfred707@gmail.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
