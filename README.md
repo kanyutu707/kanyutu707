@@ -1,53 +1,89 @@
-# Hi, I'm Alfred! 👋
+<h1 align="center">Hi, I'm Alfred 👋</h1>
 
-I am a passionate software engineer based in Kenya, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new concepts, and solving real world problems with this concepts.
+<p align="center">
+  🚀 Software Engineer | 💡 Tech Explorer | 🧠 Machine Learning Enthusiast  
+</p>
+<p align="center">
+  📍 Based in Kenya | 🌍 Open to remote work & global collaboration  
+</p>
 
-![kanyutu707's Stats](https://github-readme-stats.vercel.app/api?username=kanyutu707&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+---
 
+## 🧭 About Me
 
-## 🚀 About Me
+I’m a passionate and self-driven **Software Engineer** who thrives at the intersection of creativity and logic. Whether it’s writing backend APIs, crafting responsive UIs, or training machine learning models — I’m always looking for meaningful problems to solve.
 
-- 🔭 I'm currently self learning machine learning model development.
-- 🌐 An astute software engineer with the ability of bringing your ideas to life.
+I believe in **building with purpose**, **learning by doing**, and **collaborating with others** to create tools that make life better.
 
+---
 
+## 🚀 What I Do
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,tensorflow,java,cpp,fastapi,spring)](https://skillicons.dev)
+### 💻 Full Stack Web Development
+- Build scalable backend systems using **Spring Boot** & **FastAPI**
+- Create modern front-end experiences using **React** and **Vanilla CSS**
+- Manage databases with **MySQL** and write optimized queries
+- Work with **RESTful APIs** and microservices architecture
 
-![kanyutu707's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanyutu707&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=445)
+### 🤖 Machine Learning
+- Develop predictive models using **TensorFlow**
+- Experiment with supervised & unsupervised learning
+- Analyze and visualize datasets for pattern discovery
 
-## 🌱 Currently Exploring
+### 🧠 Systems Programming
+- Currently sharpening my skills in **C++** for performance-critical applications
+- Focused on memory management, low-level design, and writing efficient algorithms
 
-- 🚀 Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with vanilla CSS to create modern and responsive user interfaces.
-  - Building server-side applications with springboot, a powerful java web framework.
-  - Diving into MySql for efficient and scalable database management.
-- 🚀 Development of Machine Learning Models
+---
 
+## 🛠️ Tech Stack
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css,react,fastapi,spring,tensorflow,mysql" />
+</div>
 
-## 📬 Get in Touch
+---
 
-- Connect with me on [Linkedin](https://www.linkedin.com/in/alfredkanyutu)
-- Connect with me on [Twitter](#)
+## 📌 Featured Projects
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+> 🧩 Want to explore these? Head to my pinned repositories!
 
+- **📂 [Password Manager (C++)](https://github.com/kanyutu707/password-manager-cpp)**  
+  Simple command-line password manager using C++ and file I/O
 
+- **🌐 [Full Stack Task Manager](#)**  
+  React + Spring Boot app for managing personal productivity tasks
 
-<!--
+- **📊 [ML Project - Loan Approval Predictor](#)**  
+  Trained a machine learning model to predict loan approvals based on financial attributes
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanyutu707&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanyutu707&theme=vue-dark&hide_border=true&layout=compact&langs_count=10&card_width=320" height="170" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- 🔍 Advanced C++ (memory handling, STL, systems-level design)
+- 🧠 Deep Learning concepts using TensorFlow & Keras
+- 🧩 Building microservices with Spring Boot & Docker
+
+---
+
+## 🤝 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alfredkanyutu)
+- 🐙 [GitHub](https://github.com/kanyutu707)
+- 📫 Email: `alfredkanyutu[at]gmail[dot]com`
+
+---
+
+<p align="center">
+  Made with ❤️ by Alfred | Let's build the future together 🌍
+</p>
