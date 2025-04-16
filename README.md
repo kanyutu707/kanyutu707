@@ -92,7 +92,7 @@ I believe in **building with purpose**, **learning by doing**, and **collaborati
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alfredkanyutu)
 - 🐙 [GitHub](https://github.com/kanyutu707)
-- 📫 Email: `alfredkanyutu[at]gmail[dot]com`
+- 📫 Email: `softwarebusiness007@gmail.com`
 
 ---
 
