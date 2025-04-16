@@ -21,41 +21,53 @@ I believe in **building with purpose**, **learning by doing**, and **collaborati
 
 ### 💻 Full Stack Web Development
 - Build scalable backend systems using **Spring Boot** & **FastAPI**
-- Create modern front-end experiences using **React** and **Vanilla CSS**
+- Create modern front-end experiences using **Angular**, **React**, and **Flutter**
 - Manage databases with **MySQL** and write optimized queries
 - Work with **RESTful APIs** and microservices architecture
 
 ### 🤖 Machine Learning
-- Develop predictive models using **TensorFlow**
-- Experiment with supervised & unsupervised learning
-- Analyze and visualize datasets for pattern discovery
+- Develop predictive models using **TensorFlow** and **Python**
+- Focused on healthcare-related AI projects
+- Analyze and visualize medical datasets for early disease detection
 
 ### 🧠 Systems Programming
 - Currently sharpening my skills in **C++** for performance-critical applications
-- Focused on memory management, low-level design, and writing efficient algorithms
+- Focused on building search and indexing systems
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css,react,fastapi,spring,tensorflow,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css,angular,flutter,react,fastapi,spring,tensorflow,mysql" />
 </div>
 
 ---
 
 ## 📌 Featured Projects
 
-> 🧩 Want to explore these? Head to my pinned repositories!
+### 🏥 Health Information Exchange System  
+> A full-stack cross-platform healthcare data exchange system  
+- **Backend:** Spring Boot  
+- **Frontend (Web):** Angular  
+- **Frontend (Mobile):** Flutter  
+- Enables hospitals to securely share patient records, appointments, and clinical notes.
 
-- **📂 [Password Manager (C++)](https://github.com/kanyutu707/password-manager-cpp)**  
-  Simple command-line password manager using C++ and file I/O
+---
 
-- **🌐 [Full Stack Task Manager](#)**  
-  React + Spring Boot app for managing personal productivity tasks
+### 🧠 Pneumonia Prediction Model  
+> A deep learning model that predicts pneumonia from chest X-ray images  
+- **Built With:** Python, TensorFlow, Keras  
+- **Goal:** Early detection of pneumonia in patients using medical imaging  
+- Trained on public healthcare datasets with high accuracy
 
-- **📊 [ML Project - Loan Approval Predictor](#)**  
-  Trained a machine learning model to predict loan approvals based on financial attributes
+---
+
+### 🔍 Simple Web Search Engine  
+> A lightweight search engine developed in C++  
+- **Built With:** C++, STL, File I/O  
+- Implements custom indexing, keyword search, and basic ranking  
+- Great for learning search algorithms and system design fundamentals
 
 ---
 
@@ -70,9 +82,9 @@ I believe in **building with purpose**, **learning by doing**, and **collaborati
 
 ## 🌱 Currently Learning
 
-- 🔍 Advanced C++ (memory handling, STL, systems-level design)
-- 🧠 Deep Learning concepts using TensorFlow & Keras
-- 🧩 Building microservices with Spring Boot & Docker
+- 🔍 Advanced C++ for systems programming
+- 🧠 Deep learning & model deployment with TensorFlow
+- 🧩 Building microservices with Spring Boot, Docker, and Kubernetes
 
 ---
 
@@ -85,5 +97,5 @@ I believe in **building with purpose**, **learning by doing**, and **collaborati
 ---
 
 <p align="center">
-  Made with ❤️ by Alfred | Let's build the future together 🌍
+  Made with ❤️ by Alfred | Let’s build the future of tech together 🌍
 </p>
